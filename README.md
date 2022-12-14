@@ -1,6 +1,5 @@
 # pagina-de-tributo
  
-<span>Projeto simples, criado para exercitar conceitos de HTML e CSS.</span>
+<p>Projeto simples, criado para exercitar alguns conceitos básicas das linguagens HTML e CSS, sobre a banda de punk rock Black Flag</p>
 
-<p>Página de Tributo sobre a banda de punk rock Black Flag.</p>
 
