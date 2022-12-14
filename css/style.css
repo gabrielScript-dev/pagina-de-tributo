@@ -66,6 +66,10 @@ html {
     height: 30px;
 }
 
+.music-player-container {
+    margin: 25px 0;
+}
+
 .img-bold {
     text-align: center;
     font-style: bold;
